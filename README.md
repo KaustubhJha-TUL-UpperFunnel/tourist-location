@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## WHAT IT DOES
+All the tourist location in a delhi are stored in data form in json object file , It maps all the tourist places with a marker on the map,and tells there description.
+# Leaflet.js
+Leaflet.js helps us to mark these tourist location onn the map with the opensourse library.
+
+## Features to Add
+1.)Add more places 
+2.)Add description of these places 
+3.)Try to make a json parser that fetches data from internet and updates places.json file without spending money.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
