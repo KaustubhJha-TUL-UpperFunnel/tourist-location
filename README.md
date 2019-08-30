@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##HOW TO USE 
+1.)
+#Add the place you want to map on the places.txt file
+2.)
+#Add your API Key to reactsubPython.py and run it.
+3.)
+#run jsonMaker.py and add the created file to src/places.json and run the react project
+
 ## WHAT IT DOES
 All the tourist location in a delhi are stored in data form in json object file , It maps all the tourist places with a marker on the map,and tells there description.
 # Leaflet.js
