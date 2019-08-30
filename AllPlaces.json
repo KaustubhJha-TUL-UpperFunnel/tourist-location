@@ -1,0 +1,47 @@
+{
+  "Places0": {
+    "name": "India Gate",
+    "lon": "77.2295975",
+    "lat": "28.6128806"
+  },
+  "Places1": {
+    "name": "Hauz Khas",
+    "lon": "77.2067072",
+    "lat": "28.5442564"
+  },
+  "Places2": {
+    "name": "Red Fort",
+    "lon": "77.2407959232732",
+    "lat": "28.65608095"
+  },
+  "Places3": {
+    "name": "Kingdom of Dreams",
+    "lon": "77.0691264136713",
+    "lat": "28.46812985"
+  },
+  "Places4": {
+    "name": "Qutab Minar",
+    "lon": "77.1884",
+    "lat": "28.52542"
+  },
+  "Places5": {
+    "name": "Bahai (Lotus) Templ",
+    "lon": "77.258954",
+    "lat": "28.553487"
+  },
+  "Places6": {
+    "name": "Chandni Chowk",
+    "lon": "77.2299093",
+    "lat": "28.6562654"
+  },
+  "Places7": {
+    "name": "Rashtrapati Bhawan",
+    "lon": "77.1995939",
+    "lat": "28.6144583"
+  },
+  "Places8": {
+    "name": "Jama Masjid",
+    "lon": "87.3144881",
+    "lat": "22.3436817"
+  }
+}
