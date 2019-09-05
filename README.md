@@ -12,7 +12,7 @@ HOW TO USE
 .)run jsonMaker.py and add the created file to src/places.json and run the react project
 
 ## WHAT IT DOES
-All the tourist location in a delhi are stored in data form in json object file , It maps all the tourist places with a marker on the map,and tells there description.
+All the tourist location in Delhi are stored in data form in json object file , It maps all the tourist places with a marker on the map,and tells there description.
 # Leaflet.js
 Leaflet.js helps us to mark these tourist location onn the map with the opensourse library.
 
