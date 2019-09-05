@@ -14,8 +14,8 @@ temp = {}
 for f1 in enumerate(f.readlines()):
     details = {}
     details["name"] = newPlacesArry[f1[0]].strip('\n').replace('\"','')
-    details["lon"] = ast.literal_eval(f1[1])[0]["lon"]
-    details["lat"] = ast.literal_eval(f1[1])[0]["lat"]
+    details["lon"] = int(ast.literal_eval(f1[1])[0]["lon"])
+    details["lat"] = int(ast.literal_eval(f1[1])[0]["lat"])
 
     # details["lat"] = json.loads(f1[1])['lat']
 
